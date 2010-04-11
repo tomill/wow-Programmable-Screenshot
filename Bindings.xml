@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="PROGRAMMABLE_SCREENSHOT" header="PROGRAMMABLE_SCREENSHOT">
+        ProgrammableScreenshot:Start()
+    </Binding>
+</Bindings>

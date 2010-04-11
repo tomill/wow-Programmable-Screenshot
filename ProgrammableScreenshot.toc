@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Programmable Screenshot
+## Notes: Take continuous shoot or matirx machine-gun shoot!
+## Dependencies:
+## SavedVariables: ProgrammableScreenshotDB
+extlib.xml
+ProgrammableScreenshot.lua
