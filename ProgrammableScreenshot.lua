@@ -103,6 +103,7 @@ local options = {
                     type  = "toggle",
                     name  = "Hide UI",
                     order = 1,
+                    desc  = "Hide User Interface. Note: not work in combat.",
                 },
                 screenshotQuality = {
                     type  = "select",
